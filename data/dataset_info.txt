@@ -1,0 +1,3 @@
+Dataset Source: Retail Sales and E-commerce Transactions (Synthetic Dataset)
+Description: Contains transactional data, customer demographics, shipping details, and product categories used for Excel dashboard and SQL analysis.
+Note: Full raw dataset is stored locally due to size constraints.
