@@ -1,4 +1,4 @@
-📊 B2B Wholesale Executive Analytics Dashboard
+📊 Retail Analytics.
 
 English version below
 
